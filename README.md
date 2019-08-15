@@ -3,7 +3,7 @@
 <h4>Versão do MySql: 5.6.34</h4>
 <h4>Versão do Laravel: 5.5</h4>
 
-Para executar a aplicação em um ambiente local, após realizar Push do GitHub.
+Para executar a aplicação em um ambiente local, após realizar Clone do GitHub.
 
 >Será necessário criar uma base de dados com o nome de sua escolha.
 
